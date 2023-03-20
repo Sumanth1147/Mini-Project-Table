@@ -1,0 +1,53 @@
+[
+  {
+    "id":"1",
+    "TechnicalKey": "account-setting-preference",
+    "English" : "Account setting/Preference"
+  },
+
+  {
+    "id":"2",
+    "TechnicalKey": "account financial info",
+    "English" : "Financial Information"
+  },
+
+  {
+    "id":"3",
+    "TechnicalKey": "account name",
+    "English" : "Account Name"
+  },
+
+  {
+    "id":"4",
+    "TechnicalKey": "account-setting-preference",
+    "English" : "account setting/preference"
+  },
+
+  {
+    "id":"5",
+    "TechnicalKey": "account number",
+    "English" : "Account Number"
+  },
+
+  {
+    "id":"6",
+    "TechnicalKey": "account preferences",
+    "English" : "Account Added"
+  },
+
+  {
+    "id":"7",
+    "TechnicalKey": " added account preferences",
+    "English" : "Added account submitted"
+  },
+   
+  {
+    "id":"8",
+    "TechnicalKey": " added account preferences",
+    "English" : "Request failed to add Account"
+  }
+  
+
+
+
+]

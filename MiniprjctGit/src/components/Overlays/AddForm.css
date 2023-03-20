@@ -1,0 +1,50 @@
+.form1{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.form{
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1rem;
+  margin: 1rem 0;
+  color: #ff00ff;
+}
+
+.actions {
+  text-align: right;
+}
+
+.actions button {
+  font: inherit;
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid #ff00ff;
+  padding: 0.5rem 2rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: #ff00ff;
+  border-color: #ff00ff;
+  color: white;
+}
+
+.actions .button--alt {
+  color: #ff00ff;
+}
+
+.actions .button {
+  background-color: #ff00ff;
+  color: white;
+}
